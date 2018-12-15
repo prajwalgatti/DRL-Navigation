@@ -43,3 +43,10 @@ It took the agent about 471 episodes to be able to perform with not less than sc
 
 The goal set of the agent is to reach +13 points as average reward of the last 100 episodes.
 The current solution manages to reach the goal after 400-500 episodes and keep improving over 17 points.
+
+The saved weights can be found [here.](https://github.com/prajwalgatti/DRL-Navigation/tree/master/saved_weights)
+
+## Some ideas for future work
+
+* Search for better hyperparameters of algorithm as well as neural network
+* Implement prioritized experience replay mechanism
