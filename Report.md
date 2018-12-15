@@ -1,6 +1,6 @@
 ## Project Description 
 
-The RL agent is travelling across a 2D space containing blue and yellow bananas. The agent is expected to collect the yellow bananas while avoiding the blue ones. The agent receives a positive reward for every yellow banana it collects and a negative reward for every blue banana collected. The size of the state space is 37. The agent is able to move forwards and backwards as well as turn left and right, thus the size of the action space is 4. The minimal expected performance of the agent after training is a score of +13 over 100 consecutive episodes.
+The RL agent is allowed to traverse across a two dimensional grid with blue and yellow bananas placed across it. The agent is expected to collect the yellow bananas while avoiding the blue ones. The agent receives a positive reward for every yellow banana it collects and a negative reward for every blue banana collected. The size of the state space is 37. The agent is able to move forwards and backwards as well as turn left and right, thus the size of the action space is 4. The minimal expected performance of the agent after training is a score of +13 over 100 consecutive episodes.
 
 ## Algorithm Used
 
