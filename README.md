@@ -50,6 +50,8 @@ The current solution manages to reach the goal after 400-500 episodes and keep i
 
 The saved weights can be found [here.](https://github.com/prajwalgatti/DRL-Navigation/tree/master/saved_weights)
 
+Follow the training notebook [here.](https://github.com/prajwalgatti/DRL-Navigation/blob/master/Navigation.ipynb)
+
 ## Some ideas for future work
 
 * Search for better hyperparameters of algorithm as well as neural network
