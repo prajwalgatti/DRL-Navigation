@@ -1,4 +1,8 @@
-## Project Description 
+## Description 
+
+[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+
+![Trained Agent][image1]
 
 The RL agent is allowed to traverse across a two dimensional grid with blue and yellow bananas placed across it. The agent is expected to collect the yellow bananas while avoiding the blue ones. The agent receives a positive reward for every yellow banana it collects and a negative reward for every blue banana collected. The size of the state space is 37. The agent is able to move forwards and backwards as well as turn left and right, thus the size of the action space is 4. The minimal expected performance of the agent after training is a score of +13 over 100 consecutive episodes.
 
