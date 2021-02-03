@@ -8,7 +8,7 @@ The RL agent is allowed to traverse across a two dimensional grid with blue and 
 
 ## Algorithm Used
 
-The current solution implements a Dueling DDQN algorithm with Prioritized Experience Replay as described in the "Dueling Network Architectures for Deep Reinforcement Learning" paper [(arXiv:1511.06581)](https://arxiv.org/abs/1511.06581)
+The current solution implements a Dueling DQN algorithm with Prioritized Experience Replay as described in the "Dueling Network Architectures for Deep Reinforcement Learning" paper [(arXiv:1511.06581)](https://arxiv.org/abs/1511.06581)
 
 The network's architecture looks like :
 ```
